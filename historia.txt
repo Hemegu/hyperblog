@@ -1,0 +1,5 @@
+Un archivo normal de texto
+
+Practicando con Git
+
+Esperemos que sí me haya leído la carpeta.
